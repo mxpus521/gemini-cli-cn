@@ -81,4 +81,5 @@ Gemini-CLI 是 Google 推出的革命性命令行 AI 助手，它不仅仅是一
 - [Gemini-CLI 官方 GitHub 仓库](https://github.com/google/gemini-cli)
 - [Google AI 开发者平台](https://ai.google.dev)
 - [Vertex AI 文档](https://cloud.google.com/vertex-ai)
+
 ]]>
