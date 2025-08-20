@@ -1,4 +1,4 @@
- Gemini-CLI 终极教程
+# Gemini-CLI 终极教程
 
 这是一个关于 Google Gemini-CLI 的完整教程项目，旨在帮助开发者从零开始掌握 Gemini-CLI 的使用。
 
@@ -78,9 +78,6 @@ Gemini-CLI 是 Google 推出的革命性命令行 AI 助手，它不仅仅是一
 
 ## 相关资源
 
-- [Gemini-CLI 官方 GitHub 仓库](https://github.com/google/gemini-cli)
+- [Gemini-CLI 官方 GitHub 仓库](https://github.com/google-gemini/gemini-cli)
 - [Google AI 开发者平台](https://ai.google.dev)
 - [Vertex AI 文档](https://cloud.google.com/vertex-ai)
-
-
-
